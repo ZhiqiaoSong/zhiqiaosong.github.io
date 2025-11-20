@@ -15,7 +15,7 @@ Welcome! I'm Zhiqiao 👋 Thanks for visiting me webpage.
 
 I am a fourth year Ph.D. Candidate from the Department Statstics and Actuarial Science at the University of Waterloo. 
 
-I am very fortunate to be supervised by Prof. Jun Cai. 
+I am very fortunate to be supervised by [Prof. Jun Cai](https://sas.uwaterloo.ca/~jcai/). 
 
 My current research focuses on distributional model uncertainty in finance and insurance.
 
