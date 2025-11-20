@@ -48,8 +48,12 @@
   object-fit: cover !important; 
 }
 a[href*="ssrn.com"] {
-  color: #228B22 !important; 
-  font-weight: bold;
-  border-bottom: 1px solid #228B22;
+  color: #228B22 !important;      
+  font-weight: 600 !important;     
+  border: 1px solid #228B22;      
+  padding: 2px 4px;
+  border-radius: 3px;
+  text-decoration: none !important; 
+  font-size: 90%;
 }
 
