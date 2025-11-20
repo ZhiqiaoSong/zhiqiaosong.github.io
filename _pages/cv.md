@@ -29,4 +29,7 @@ Actuarial Science; Risk Management; Quantitative Finance; Operations Research; F
 ## Language
 Mandarin (Native); English (Fluent); Spanish (Intermediate)
 
+## Contact Me
+Email: z22song@uwaterloo.ca
+
 
