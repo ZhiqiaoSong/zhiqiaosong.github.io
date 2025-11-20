@@ -32,4 +32,6 @@ Mandarin (Native); English (Fluent); Spanish (Intermediate)
 ## Contact Me
 Email: z22song@uwaterloo.ca
 
+Office: Room 4133, Mathematics 3 Building
+
 
