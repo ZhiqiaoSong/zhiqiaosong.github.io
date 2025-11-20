@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Zhiqiao Song 🌻
 ======
 Welcome! I'm Zhiqiao 👋 Thanks for visiting me webpage.
@@ -22,13 +23,13 @@ My current research focuses on distributional model uncertainty in finance and i
 
 ## Education
 
-* 2022-present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
+* 2022 - present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
 
-* 2021-2022: Imperial College London, M.Sc. in Financial Technology (FinTech).
+* 2021 - 2022: Imperial College London, M.Sc. in Financial Technology (FinTech).
  
-* 2019-2021: University of Liverpool, B.Sc. in Actuarial Mathematics.
+* 2019 - 2021: University of Liverpool, B.Sc. in Actuarial Mathematics.
 
-* 2017-2019: Xi'anJiaotong-Liverpool University, B.Sc. in Actuarial Science.
+* 2017 - 2019: Xi'anJiaotong-Liverpool University, B.Sc. in Actuarial Science.
 
 ## Research Interests 
 
