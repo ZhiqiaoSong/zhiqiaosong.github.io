@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Curriculum Vitae 📃
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
+  * Supervisor: [Prof. Jun Cai](https://sas.uwaterloo.ca/~jcai/). 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021 - 2022: Imperial College London, M.Sc. in Financial Technology (FinTech).
+  * Supervisor: [Prof. Rustam Ibragimov](https://profiles.imperial.ac.uk/i.rustam).
+ 
+* 2019 - 2021: University of Liverpool, B.Sc. in Actuarial Mathematics.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017 - 2019: Xi'anJiaotong-Liverpool University, B.Sc. in Actuarial Science.
+
+## Research Interests 
+
+Actuarial Science; Risk Management; Quantitative Finance; Operations Research; FinTech.
+
+## Language
+Mandarin (Native); English (Fluent); Spanish (Intermediate)
+
+
