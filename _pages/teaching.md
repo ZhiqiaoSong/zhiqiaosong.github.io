@@ -1,4 +1,4 @@
-# Teaching
+# Teaching 📖
 ## Teaching Assistant at the University of Waterloo
 
 * **AFM113** - Analytic Methods for Business 2 (Winter 2023)
