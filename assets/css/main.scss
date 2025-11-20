@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.author__avatar img {
+  width: 220px !important;
+  height: 220px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important; 
+}
