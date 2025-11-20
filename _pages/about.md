@@ -24,12 +24,12 @@ I obtained a double Bachelor's degree in Actuarial Science and Actuarial Mathema
 
 ## My research interests include:
 
-* Model uncertainty with applications in robust portfolio selection problems
+* Model uncertainty with applications to robust portfolio selection problems
 
 * ESG-constrained investment strategies
   
 * Optimal insurance/reinsurance design
   
-* Data-driven methods with distributionally robust optimization
+* Data-driven methods for distributionally robust optimization
   
 * Peer-to-peer risk sharing and decentralized finance
