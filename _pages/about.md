@@ -13,27 +13,21 @@ Welcome! I'm Zhiqiao 👋 Thanks for visiting me webpage.
 
 ## About me
 
-I am a fourth year Ph.D. Candidate from the Department Statstics and Actuarial Science at the University of Waterloo. 
-
+I am a currently a fourth year Ph.D. Candidate in the Department of Statstics and Actuarial Science at the University of Waterloo. 
 I am very fortunate to be supervised by [Prof. Jun Cai](https://sas.uwaterloo.ca/~jcai/). 
+My current research focuses on distributional model uncertainty with applications in finance and insurance.
 
-My current research focuses on distributional model uncertainty in finance and insurance.
+I obtained my master's degree in Financial Technology (FinTech) from Imperial College London (IC), the United Kingdom, where I worked on diversification effect, heavy-tailedness and risk management.
+
+I obtained a double Bachelor's degree in Actuarial Science and Actuarial Mathematics through a joint program offered by [Xi'anJiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), China and the University of Liverpool, the United Kingdom.
 
 
+## My research interests include:
 
-## Education
-
-* 2022 - present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
-  * Supervisor: [Prof. Jun Cai](https://sas.uwaterloo.ca/~jcai/). 
-
-* 2021 - 2022: Imperial College London, M.Sc. in Financial Technology (FinTech).
-  * Supervisor: [Prof. Rustam Ibragimov](https://profiles.imperial.ac.uk/i.rustam).
- 
-* 2019 - 2021: University of Liverpool, B.Sc. in Actuarial Mathematics.
-
-* 2017 - 2019: Xi'anJiaotong-Liverpool University, B.Sc. in Actuarial Science.
-
-## Research Interests 
-
-Actuarial Science; Risk Management; Quantitative Finance; Operations Research; FinTech.
-
+* Model uncertainty with applications in robust portfolio selection problems
+  
+* Optimal insurance/reinsurance design
+  
+* Data-driven methods with distributionally robust optimization
+  
+* Peer-to-peer risk sharing and decentralized finance
