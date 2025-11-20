@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Zhiqiao Song
+Zhiqiao Song 🌻
 ======
 Welcome! I'm Zhiqiao 👋 Thanks for visiting me webpage.
 
-## About me 🌻
+## About me
 
 I am a fourth year Ph.D. Candidate from the Department Statstics and Actuarial Science at the University of Waterloo. 
 
