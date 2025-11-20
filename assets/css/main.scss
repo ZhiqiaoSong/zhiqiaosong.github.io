@@ -47,3 +47,9 @@
   border-radius: 50% !important;
   object-fit: cover !important; 
 }
+a[href*="ssrn.com"] {
+  color: #228B22 !important; 
+  font-weight: bold;
+  border-bottom: 1px solid #228B22;
+}
+
