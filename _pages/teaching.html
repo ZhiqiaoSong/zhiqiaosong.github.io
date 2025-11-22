@@ -15,6 +15,8 @@ author_profile: true
 * **ACTSC 221** - Introductory Financial Mathematics (Fall 2023)
   
 * **ACTSC 231** - Introductory Financial Mathematics (Winter 2025)
+
+* **ACTSC 331** - Life Contingencies 2 (Winter 2024, Fall 2023, Winter 2023)
   
 * **ACTSC 372** – Investment Science and Corporate Finance (Fall 2022)
   
