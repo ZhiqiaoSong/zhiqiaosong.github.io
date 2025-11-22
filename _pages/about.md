@@ -27,9 +27,9 @@ I obtained a double Bachelor's degree in Actuarial Science and Actuarial Mathema
 * Model uncertainty with applications to robust portfolio management
 
 * Data-driven methods for distributionally robust optimization
-
-* ESG-constrained investment strategies
   
 * Optimal insurance/reinsurance design
+
+* ESG-constrained investment strategies
   
 * Peer-to-peer risk sharing and decentralized finance
