@@ -9,9 +9,9 @@ author_profile: true
 
 ## Manuscripts 📑
 
-* Cai, J., Mao, T. and **Song, Z.** (2025) Conditional Value-at-Risk under reward-penalty mechanism with applications to robust portfolio management.
-  *SSRN*: 5225465. [[Link]](http://dx.doi.org/10.2139/ssrn.5225465) (Revised and Resumbitted)
-* Cai, J. and **Song, Z.** (2025). Data-driven robust index tracking portfolio selection under distributional uncertainty. *Working paper*.
+* Cai, J., Mao, T. and **Song, Z.** (2026) Conditional Value-at-Risk under reward-penalty mechanism with applications to robust portfolio management.
+  *SSRN*: 5225465. [[Link]](http://dx.doi.org/10.2139/ssrn.5225465) (*Conditionally accepted, Insurance: Mathematics and Economics*).
+* Cai, J. and **Song, Z.** (2026). Robust enhanced index tracking portfolio selection under distributional uncertainty. *Under Review*.
 * Ibragimov, R. and **Song, Z.**. Diversification effects under Heavy-Tailed Risk Distributions: a bilateral optimal reinsurance problem. *Working paper*.
 
 ## Academic Presentations 🎤
