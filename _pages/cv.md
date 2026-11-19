@@ -10,6 +10,9 @@ author_profile: true
 Curriculum Vitae 📃
 ======
 
+## Employment
+* 2026 - present: **Lecturer in Actuarial Science**, Bay Campus, Swansea University.
+
 ## Education
 
 * 2022 - present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
@@ -26,12 +29,15 @@ Curriculum Vitae 📃
 
 Actuarial Science; Risk Management; Quantitative Finance; Operations Research; FinTech.
 
-## Language
-Mandarin (Native); English (Fluent); Spanish (Intermediate)
+## Credentials:
+* Associate of the Society of Actuaries (ASA): completed all requirements, expected to obtain soon.
+
 
 ## Contact Me
-Email: z22song@uwaterloo.ca
+Email: zhiqiao.song@swansea.ac.uk
 
-Office: Room 4133, Mathematics 3 Building
+Alternative: z22song@uwaterloo.ca
+
+Office: Room 337, Computational Foundry, Bay Campus
 
 
