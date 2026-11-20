@@ -24,3 +24,4 @@ I obtained my master's degree in Financial Technology (FinTech) from [Imperial C
 <!--I obtained a double Bachelor's degree in Actuarial Science and Actuarial Mathematics through a joint program offered by [Xi'anJiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), China, and the [University of Liverpool](https://www.liverpool.ac.uk/), United Kingdom.-->
 
 My research interests include actuarial science, insurance, quantitative finance, quantitative risk management and financial mathematics.
+Please feel free to explore my research and reach out with any enquries or potential collabrations.
