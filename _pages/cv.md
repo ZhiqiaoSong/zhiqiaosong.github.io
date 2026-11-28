@@ -15,7 +15,7 @@ Curriculum Vitae 📃
 
 ## Education
 
-* 2022 - present: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
+* 2022 - 2026: University of Waterloo, Ph.D. Candidate in Actuarial Science and Quantitative Finance.
   * Supervisor: [Prof. Jun Cai](https://sas.uwaterloo.ca/~jcai/). 
 
 * 2021 - 2022: Imperial College London, M.Sc. in Financial Technology (FinTech).
